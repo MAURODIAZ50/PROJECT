@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title> aaapolimercado primera pagina </title>
+     
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+     
+     <!--custom css file link-->
+     
+     <link rel="stylesheet" href="C:\Users\mauricio\Downloads\project\css\STYLE.css">
+     
+     </head>
+     
+     <body>
+     
+     
+
+
+      <header>
+
+
+        <div class="header-1">
+        
+        <a href="#" class="logo"><i class="fas fa-shopping-basket"></i><h1  style="color:#f8f3f3;">AAApolimercado</h1>
+            <form action="" class="search-box-container">
+                <input type=""search" id=""search-box" placeholder="buscar..">
+                <label for=""seach-box class="fas fa-search">  </label>
+        </a>
+      
+  
+
+        
+        </div>
+        <div class="header-2">
+
+
+           
+            <nav class="navbar">
+
+                
+                <a href="#CATEGORIAS"><div id="menu-bar" class="fas fa-bars"></div> CATEGORIAS</a>
+                
+                <c href="#CATALOGOS">CATALOGOS</c>
+                <d href="#TARJETA VIRTUAL">TARJETA VIRTUAL</d>
+                <e href="#TIENDAS Y COBERTURA">TIENDAS Y COBERTURA</e>
+                <f href="#SERVICIOS">SERVICIOS</f>
+                <g href="#(COMPRAS)">(COMPRAS)</g>
+                </nav>
+                <nav class="navbarb">
+
+                
+                    
+                    <b href="#OFERTAS">OFERTAS</b>
+                    
+                    </nav>
+
+
+
+                <div class="icons">
+
+                    <a href="#" class="fas fa-shopping-cart"></a>
+                    
+                    <a href="#" class="fas fa-heart"></a> 
+                    <a href="#" class="fa fa-user-circle"></a> 
+                    
+                </div>
+
+                </div>
+
+                
+
+                <section class="category" id="category">
+
+                    <h1 class="heading">comprar por <span>categoria</span></h1>
+                    
+                    <div class="box-container">
+
+
+                        <div class="box">
+                    
+                            <h3>lacteos</h3
+                            
+                            >
+                            
+                            <p>10% de descuento</p>
+                            
+                            <img src="https://i.ibb.co/ry8Sn8X/despensa.png" alt="">
+                            
+                            <a href="#" class="btn">comprar ahora </a>
+                            
+                            </div>
+                            <div class="box">
+                    
+                                <h3>despensa</h3
+                                
+                                >
+                                
+                                <p>10% de descuento</p>
+                                
+                                <img src=" https://i.ibb.co/GVtyGQZ/lacteos.png  " alt="">
+                                
+                                <a href="#" class="btn">comprar ahora </a>
+                                
+                                </div>
+
+                                <div class="box">
+                    
+                                    <h3>carnicos</h3
+                                    
+                                    >
+                                    
+                                    <p>15% de descuento</p>
+                                    
+                                    <img src="https://i.ibb.co/vmcx39X/images.jpg" alt="">
+                                    
+                                    <a href="#" class="btn">comprar ahora </a>
+                                    
+                                    </div>
+                                    
+                    
+                    <div class="box">
+                    
+                    <h3>vegetales</h3
+                    
+                    >
+                    
+                    <p>50% de descuento</p>
+                    
+                    <img src="https://i.ibb.co/nrqk0DT/frutas.png" alt="">
+                    
+                    <a href="#" class="btn">comprar ahora </a>
+                    
+                    </div>
+                    
+                 
+                    
+                    </div>
+
+               
+                                
+                            
+                        
+                     
+                        
+                        </div>
+
+
+                        <div class="box-container2">
+                            <div class="box2">
+                    
+                                <h3>bebidas</h3
+                                
+                                >
+                                
+                               
+                                <p></p>
+                            
+                                <img src="https://i.ibb.co/yYZDH83/bebidas.png" alt="">
+                                
+                                <a href="#" class="btn">comprar ahora </a>
+                                
+                                </div>
+        
+                                <div class="box2">
+                            
+                                    <h3>panaderia y reposteria</h3
+                                    
+                                    >
+                                    
+                                   
+                                    <p></p>
+                                
+                                    <img src="https://i.ibb.co/026DTH6/panaderia-y-reporteria.png" alt="">
+                                    
+                                    <a href="#" class="btn">comprar ahora </a>
+                                    
+                                    </div>
+        
+                                    <div class="box2">
+                            
+                                        <h3>limpieza</h3
+                                        
+                                        >
+                                        
+                                       
+                                        <p></p>
+                                    
+                                        <img src="https://i.ibb.co/T0ykFr6/limpieza.png" alt="">
+                                        
+                                        <a href="#" class="btn">comprar ahora </a>
+                                        
+                                        </div>
+        
+                                        <div class="box2">
+                            
+                                            <h3>cuidado personal</h3
+                                            
+                                            >
+                                            
+                                           
+                                            <p></p>
+                                        
+                                            <img src="https://i.ibb.co/mR2RgC5/construction.jpg" alt="">
+                                            
+                                            <a href="#" class="btn"> en construccion </a>
+                                            
+                                            </div>    
+                        
+
+
+
+                        <div class="header-3">
+        
+                            <h1  style="color:black;"> derechos reservados AAApolimercado</h1>
+                               
+                            </div>
+
+                    
+
+      </header>
+
+
+
+
+     
+
+
+
+
+
+
+
+       
+
+
+     </body>
+     </html>
